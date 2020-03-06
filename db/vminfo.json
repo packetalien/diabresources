@@ -154,9 +154,9 @@
     "version": "2019.12.2"
   },
   "msfttmsclientw10": {
-    "type": "Microsoft Windows 10 Enterprise",
     "name": "msft-tmsclient-w10",
     "ova": "msft-tmsclient-w10.ova",
+    "type": "Microsoft Windows 10 Enterprise",
     "status": true,
     "ipAddress": "192.168.45.62",
     "zone": "trust",
