@@ -1,7 +1,7 @@
 {
   "panpanosvm50": {
     "name": "pan-panos-vm50",
-    "vmOVAName": "pan-panos-vm50.ova",
+    "ova": "pan-panos-vm50.ova",
     "type": "PanOS Version 9.0.6",
     "status": true,
     "ipAddress": "192.168.55.10",
@@ -21,7 +21,7 @@
   },
   "panpanorama": {
     "name": "pan-panorama",
-    "vmOVAName": "pan-panorama.ova",
+    "ova": "pan-panorama.ova",
     "type": "Panorama 8.4",
     "status": true,
     "ipAddress": "192.168.55.5",
@@ -41,7 +41,7 @@
   },
   "msftesmdc": {
     "name": "msft-esm-dc",
-    "vmOVAname": "msft-esm-dc.ova",
+    "ova": "msft-esm-dc.ova",
     "type": "Microsoft Windows Server Standard 2016",
     "status": true,
     "ipAddress": "192.168.45.65",
@@ -60,7 +60,7 @@
   },
   "osssetoolslinux": {
     "name": "oss-setools-linux",
-    "vmOVAName": "oss-setools-linux.ova",
+    "ova": "oss-setools-linux.ova",
     "type": "Ubuntu Linux 16.06 LTS",
     "status": true,
     "ipAddress": "192.168.35.132",
@@ -79,7 +79,7 @@
   },
   "pansoc": {
     "name": "pan-soc",
-    "vmOVAName": "pan-soc.ova",
+    "ova": "pan-soc.ova",
     "type": "Ubuntu 18.04lts",
     "status": true,
     "ipAddress": "192.168.55.75",
@@ -97,7 +97,7 @@
     "version": "2020.3.3"
   },
   "panexpedition": {
-    "vmOVAName": "pan-expedition.ova",
+    "ova": "pan-expedition.ova",
     "type": "Expedition",
     "name": "pan-expedition",
     "status": true,
@@ -116,7 +116,7 @@
     "version": "2020.1.2"
   },
   "msftvictimw7": {
-    "vmOVAName": "msft-victim-w7.ova",
+    "ova": "msft-victim-w7.ova",
     "type": "Windows 7 32Bit",
     "name": "msft-victim-w7",
     "status": true,
@@ -136,7 +136,7 @@
   },
   "msftrodc": {
     "name": "msft-rodc",
-    "vmOVAName": "msft-rodc.ova",
+    "ova": "msft-rodc.ova",
     "type": "Windows 2016 Standard Server",
     "status": true,
     "ipAddress": "192.168.45.63",
@@ -173,7 +173,7 @@
   },
   "ossowasplinux": {
     "name": "oss-owasp-linux",
-    "vmOVAName": "oss-owasp-linux.ova",
+    "ova": "oss-owasp-linux.ova",
     "type": "Debian",
     "status": false,
     "ipAddress": "192.168.35.35",
@@ -192,7 +192,7 @@
   },
   "ossremnuxlinux": {
     "name": "oss-remnux-linux",
-    "vmOVAName": "oss-remnux-linux.ova",
+    "ova": "oss-remnux-linux.ova",
     "type": "Debian",
     "status": false,
     "ipAddress": "192.168.45.60",
