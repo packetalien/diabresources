@@ -119,7 +119,7 @@
     "ova": "msft-victim-w7.ova",
     "type": "Windows 7 32Bit",
     "name": "msft-victim-w7",
-    "status": true,
+    "status": false,
     "ipAddress": "192.168.45.64",
     "zone": "trust",
     "primaryaccount": "Administrator",
@@ -156,6 +156,7 @@
   "msfttmsclientw10": {
     "type": "Microsoft Windows 10 Enterprise",
     "name": "msft-tmsclient-w10",
+    "ova": "msft-tmsclient-w10.ova",
     "status": true,
     "ipAddress": "192.168.45.62",
     "zone": "trust",
@@ -208,9 +209,6 @@
     "windows": "oss-remnux-linux/",
     "vmprofile": "",
     "version": "2019.8.2"
-  },
-  "virtualmachines": {
-    
   },
   "labinabox": {
     "name": "Lab in a Box",
