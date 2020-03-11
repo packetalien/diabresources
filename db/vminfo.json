@@ -96,25 +96,6 @@
     "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45579",
     "version": "2020.3.3"
   },
-  "panexpedition": {
-    "ova": "pan-expedition.ova",
-    "type": "Expedition",
-    "name": "pan-expedition",
-    "status": true,
-    "ipAddress": "192.168.55.120",
-    "zone": "untrust",
-    "primaryaccount": "expedition",
-    "password": "paloalto",
-    "sourceurl": "https://drive.google.com/open?id=16_cfaPInBot2o-QeaPtR9y7Diix-G0yI",
-    "description": "Expedition setup for Lab in a Box",
-    "md5hash": "b6cd7e93bc7a96c2dc33f819aa3ac651",
-    "sha1sum": "f313cb2f546a9380fd28a362a221ed711baad419",
-    "vmx": "pan-expedition.vmx",
-    "macos": "/pan-expedition.vmwarevm/",
-    "windows": "pan-expedition/",
-    "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45580",
-    "version": "2020.1.2"
-  },
   "msftvictimw7": {
     "ova": "msft-victim-w7.ova",
     "type": "Windows 7 32Bit",
@@ -171,5 +152,24 @@
     "windows": "msft-tmsclient-w10/",
     "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45583",
     "version": "2020.3.2"
+  },
+  "panexpedition": {
+    "ova": "pan-expedition.ova",
+    "type": "Expedition",
+    "name": "pan-expedition",
+    "status": true,
+    "ipAddress": "192.168.55.120",
+    "zone": "untrust",
+    "primaryaccount": "expedition",
+    "password": "paloalto",
+    "sourceurl": "https://drive.google.com/open?id=16_cfaPInBot2o-QeaPtR9y7Diix-G0yI",
+    "description": "Expedition setup for Lab in a Box",
+    "md5hash": "b6cd7e93bc7a96c2dc33f819aa3ac651",
+    "sha1sum": "50c1bf77538f1991a358c889a0c88d8dd6521734",
+    "vmx": "pan-expedition.vmx",
+    "macos": "/pan-expedition.vmwarevm/",
+    "windows": "pan-expedition/",
+    "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45580",
+    "version": "2020.1.2"
   }
 }
