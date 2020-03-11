@@ -171,52 +171,5 @@
     "windows": "msft-tmsclient-w10/",
     "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45583",
     "version": "2020.3.2"
-  },
-  "ossowasplinux": {
-    "name": "oss-owasp-linux",
-    "ova": "oss-owasp-linux.ova",
-    "type": "Debian",
-    "status": false,
-    "ipAddress": "192.168.35.35",
-    "zone": "servers",
-    "primaryaccount": "root",
-    "password": "owaspbwa",
-    "sourceurl": "https://drive.google.com/open?id=1ZuvpVZl2IpsERN6wXASEWEXbKcdUfo8q",
-    "description": "This is a direct import of the Open Source OWASP Broken Web Applications project. You can find detailed information at the following website. https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
-    "md5hash": "2708c154048b9e3eeddd4775f84cea71",
-    "sha1sum": "2be785e6e6480b85f7e5ffe8f20ef8162627857e",
-    "vmx": "oss-owasp-linux.vmx",
-    "macos": "/oss-owasp-linux.vmwarevm/",
-    "windows": "oss-owasp-linux/",
-    "vmprofile": "",
-    "version": "2019.8.3"
-  },
-  "ossremnuxlinux": {
-    "name": "oss-remnux-linux",
-    "ova": "oss-remnux-linux.ova",
-    "type": "Debian",
-    "status": false,
-    "ipAddress": "192.168.45.60",
-    "zone": "trust",
-    "primaryaccount": "remnux",
-    "password": "paloalto",
-    "sourceurl": "https://drive.google.com/open?id=1-hCxhlfktWC-PDL5ewqoCfL2wE_fAeLz",
-    "description": "This is a direct import of the Open Source REMNUX distribution. This distribution is widly hailed as one of the best malware reverse engineering packages. You can find detailed information on this distribution at the following web site. https://remnux.org/",
-    "md5hash": "96f7270bf3ada4f664e6a8097e650633",
-    "sha1sum": "c1bdded431080bf2bd6e1b8387013c28eaf95801",
-    "vmx": "oss-remnux-linux.vmx",
-    "macos": "/oss-remnux-linux.vmwarevm/",
-    "windows": "oss-remnux-linux/",
-    "vmprofile": "",
-    "version": "2019.8.2"
-  },
-  "labinabox": {
-    "name": "Lab in a Box",
-    "support": "Slack #labinabox",
-    "maintainer": "rporter@paloaltonetworks.com",
-    "version": "2.1",
-    "url": "https://drive.google.com/open?id=1Yh6Ca4wThWRmwEWtVuShc2uqicV0ziW4",
-    "macosbase": "/Documents/Virtual Machines.localized/IT-Managed-VMs",
-    "windowsbase": "/Documents/Virtual Machines/IT-Managed-VMs/"
   }
 }
