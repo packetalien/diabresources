@@ -96,25 +96,6 @@
     "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45579",
     "version": "2020.3.3"
   },
-  "msftvictimw7": {
-    "ova": "msft-victim-w7.ova",
-    "type": "Windows 7 32Bit",
-    "name": "msft-victim-w7",
-    "status": false,
-    "ipAddress": "192.168.45.64",
-    "zone": "trust",
-    "primaryaccount": "Administrator",
-    "password": "paloalto",
-    "sourceurl": "https://drive.google.com/open?id=1YGeB7J4XnxjoFtLe4fReINeeQqnhfLCB",
-    "description": "Windows 7 victim client for exploits.",
-    "md5hash": "c6cb4581cd998a4b379154d58eb54e45",
-    "sha1sum": "37b3a9bd3f95edcbc29208ba4b5c07bb1241a298",
-    "vmx": "msft-victim-w7.vmx",
-    "macos": "/msft-victim-w7.vmwarevm/",
-    "windows": "msft-victim-w7/",
-    "vmprofile": "https://loop.paloaltonetworks.com/docs/DOC-45581",
-    "version": "2020.3.1"
-  },
   "msftrodc": {
     "name": "msft-rodc",
     "ova": "msft-rodc.ova",
