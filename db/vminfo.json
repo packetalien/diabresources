@@ -70,7 +70,7 @@
     "sourceurl": "https://drive.google.com/open?id=1lSWZXPnFVuUnmnyXAz2jYioy_Sjn9hg8",
     "description": "SE Tools is a utility Virtual Machine loaded with extras. It has Terraform, Ansible, Pan-Tort, Docker, AzureCLI, Google Cloud SDK and CLI, AWS CLI. It has templates for cloud pre-loaded.",
     "md5hash": "51eb8938e4b36e013d409c523c04974a",
-    "sha1sum": "152de5251c6f13f597c07f64105f16eae7458f04",
+    "sha1sum": "14c274f0bc3e8dfa5dcc9baaed5e1b6f1f9f79aa",
     "vmx": "oss-setools-linux.vmx",
     "macos": "/oss-setools-linux.vmwarevm/",
     "windows": "/oss-setools-linux/",
